@@ -18,8 +18,8 @@ const sendMail = async (msg) => {
 
 sendMail(
     {
-        to: "jevin.lopez@unah.hn",
-        from: "jevinvega@gmail.com",
+        to: "holamundo@hootmail.com",
+        from: "holamundo@gmail.com",
         subject: "Envio de Correo con NODEJS y Sendgrid",
         text: "Prueba de Sendgrid y NODEJS para la clase"
     }
